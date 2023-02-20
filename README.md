@@ -28,3 +28,5 @@ Range Pair Worries:7/70
 Shorten to 3: 27.69/90
 
 Find me the Perfect String: 22.65/110
+
+Over all ranking on Heckerrank: 25th place/196 competitors
